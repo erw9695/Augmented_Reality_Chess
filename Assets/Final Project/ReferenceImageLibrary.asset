@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5085889634723430829
+  m_GuidHigh: 539623472343952277
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5757771060362908293
+      m_GuidHigh: 5226479091127995029
+    m_SerializedTextureGuid:
+      m_GuidLow: 11976239236652159177
+      m_GuidHigh: 14780844567864088377
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: King_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5258985141419366091
+      m_GuidHigh: 6382831012337093043
+    m_SerializedTextureGuid:
+      m_GuidLow: 5292885075951946240
+      m_GuidHigh: 11269626962731468361
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: King_B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4689378075610839316
+      m_GuidHigh: 18371728662173381254
+    m_SerializedTextureGuid:
+      m_GuidLow: 9395863705205061823
+      m_GuidHigh: 14230104615667649721
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Queen_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5109229448520579521
+      m_GuidHigh: 18056393816912680834
+    m_SerializedTextureGuid:
+      m_GuidLow: 8170854182262242293
+      m_GuidHigh: 12720016151597086842
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Queen_B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011563087775484113
+      m_GuidHigh: 5240339444331016577
+    m_SerializedTextureGuid:
+      m_GuidLow: 1023554913653785681
+      m_GuidHigh: 9403609081552829032
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Bishop_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5748951021493208158
+      m_GuidHigh: 10920773244276174464
+    m_SerializedTextureGuid:
+      m_GuidLow: 7833112228229870827
+      m_GuidHigh: 3107874649297425033
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Bishop_B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5181619471632680056
+      m_GuidHigh: 12322694567689634969
+    m_SerializedTextureGuid:
+      m_GuidLow: 4590360457450781479
+      m_GuidHigh: 7288639446363038728
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Knight_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5010096610712692262
+      m_GuidHigh: 3136726713025141396
+    m_SerializedTextureGuid:
+      m_GuidLow: 13530164602649500671
+      m_GuidHigh: 1270329500445592824
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Knight_B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5225626447790445587
+      m_GuidHigh: 12628981753140168108
+    m_SerializedTextureGuid:
+      m_GuidLow: 17407782835755795574
+      m_GuidHigh: 8515478973959236008
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Rook_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4667439892255745529
+      m_GuidHigh: 13851702873389823667
+    m_SerializedTextureGuid:
+      m_GuidLow: 9035559082622820033
+      m_GuidHigh: 9314369676399580026
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Rook_B
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5541311065871628194
+      m_GuidHigh: 18072085451366687159
+    m_SerializedTextureGuid:
+      m_GuidLow: 4176093900108133773
+      m_GuidHigh: 3777213780956762443
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Pawn_A
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5145498635301450249
+      m_GuidHigh: 16273965263511467450
+    m_SerializedTextureGuid:
+      m_GuidLow: 2077376290872790825
+      m_GuidHigh: 3678285023904963913
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Pawn_B
+    m_Texture: {fileID: 0}
