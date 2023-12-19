@@ -2,7 +2,7 @@
 ## Important Files
 
 Main.cs - Main C# file for running the application.
-- Path: Assets/Final Project/Main.cs
+Note: The Main.cs file was originally under the "Assets/Final Project" directory but was moved out of it so that it's easier to find for grading.  
 
 Chess Set A - Standard (wooden) pieces.
 - Path: Assets/Chess Set A
